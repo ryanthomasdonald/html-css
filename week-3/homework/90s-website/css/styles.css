@@ -11,6 +11,9 @@ p{
     -webkit-text-stroke-color: white;
     margin: 60px
 }
+a{
+    text-align: center;
+}
 a:link, a:visited{
     color: white;
 }
