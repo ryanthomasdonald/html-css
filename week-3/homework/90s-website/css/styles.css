@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    padding: 40px 0px 0px 0px
+}
+p{
+    color: red;
+    text-align: center;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: white;
+    margin: 60px
+}
+a:link, a:visited{
+    color: white;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    z-index: 5;
+}
