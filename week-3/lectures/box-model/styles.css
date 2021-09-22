@@ -1,0 +1,32 @@
+
+body{
+    margin: 0px;
+}
+.opacity{
+    background-color: black;
+    position: absolute;
+    opacity: 50%;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+}
+.text{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    z-index: 20;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    line-height: 500px;
+}
+.header{
+    height: 500px;
+    background-color: yellow;
+    position: relative;
+    overflow: hidden;
+}.img{
+    position: absolute;
+    right: -200px;
+    bottom: -150px
+}
